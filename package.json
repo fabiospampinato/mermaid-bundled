@@ -1,7 +1,7 @@
 {
   "name": "mermaid-bundled",
   "description": "Lightweight, 0 depedencies, already bundled, version of mermaid.",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "main": "mermaid.js",
   "scripts": {
     "update": "cp ./node_modules/mermaid/dist/mermaid.js ./mermaid.js"
